@@ -1,2 +1,1 @@
-﻿存储博客中的例子
-博客：http://liuwangshu.cn
+﻿博客文章[算法（二）初等排序前篇[插入和冒泡排序]](http://blog.csdn.net/itachi85/article/details/55657826)例子代码
