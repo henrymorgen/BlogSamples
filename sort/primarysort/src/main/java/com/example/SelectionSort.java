@@ -19,9 +19,9 @@ public class SelectionSort {
         int i, j, min, v;
         int n = a.length;
         for (i = 0; i < n; i++) {
-            //每次将未排序部分的首元素赋值给下标min
+            //每次将未排序部分的首元素下标赋值给下标min
             min = i;
-            //得到未排序部分的最小值的下标并赋值给
+            //得到未排序部分的最小值的下标并赋值给min
             for (j = i+1; j < n; j++) {
                 if (a[j] < a[min]) {
                     min = j;
