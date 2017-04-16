@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/flyweightpattern" />
             <option value="$PROJECT_DIR$/mediatorpattern" />
             <option value="$PROJECT_DIR$/proxypattern" />
+            <option value="$PROJECT_DIR$/statepattern" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,1 +1,1 @@
-include ':app', ':factorypattern', ':proxypattern', ':flyweightpattern', ':abstractfactory', ':mediatorpattern'
+include ':app', ':factorypattern', ':proxypattern', ':flyweightpattern', ':abstractfactory', ':mediatorpattern', ':statepattern'

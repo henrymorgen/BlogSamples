@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/flyweightpattern/flyweightpattern.iml" filepath="$PROJECT_DIR$/flyweightpattern/flyweightpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediatorpattern/mediatorpattern.iml" filepath="$PROJECT_DIR$/mediatorpattern/mediatorpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxypattern/proxypattern.iml" filepath="$PROJECT_DIR$/proxypattern/proxypattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statepattern/statepattern.iml" filepath="$PROJECT_DIR$/statepattern/statepattern.iml" />
     </modules>
   </component>
 </project>
